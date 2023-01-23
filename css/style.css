@@ -55,7 +55,85 @@
 
 
 .box{
-    width: 40%;
+    width: 35%;
     height: 70%;
     background-color: purple;
+}
+
+.container4{
+    background-color: orange;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.box2{
+    width: 25%;
+    height: 70%;
+    background-color: black;
+}
+
+.box3{
+    width: 15%;
+    height: 70%;
+    background-color: green;
+}
+
+
+.container5{
+    background-color: grey;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.box4{
+    width: 15%;
+    height: 70%;
+    background-color: black;
+}
+
+.box5{
+    width: 25%;
+    height: 70%;
+    background-color: green;
+}
+
+
+.container6{
+    background-color: black;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box6{
+    width: 25%;
+    height: 70%;
+    background-color: blue;
+}
+
+.box7{
+    width: 15%;
+    height: 70%;
+    background-color: crimson;
+}
+
+.box-max{
+    background-color: purple;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box8{
+    width: 50%;
+    height: 90%;
+    background-color: crimson;
 }
