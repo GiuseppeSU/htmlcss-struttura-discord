@@ -155,19 +155,20 @@ footer{
     width: 40%;
     height: 70%;
     background-color: blueviolet;
+    display: flex;
+    justify-content: center;
 }
 
 .colonna1{
-    width: 25%;
+    width: 35%;
     border: 1px dotted white;
     height: 100%;
-    display: flex;
-    align-content: center;
+    
     
 }
 
 .mini-colonna{
-    width: 10%;
+    width: 20%;
     border: 1px dotted aqua;
     height: 100%;
 
