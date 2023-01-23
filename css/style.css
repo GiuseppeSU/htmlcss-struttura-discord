@@ -143,11 +143,13 @@ footer{
 
 
 .footer-top{
-    background-color: orange;
+    background-color: black;
     height: 400px;
     display: flex;
     justify-content: center;
     align-items: center;
+    border-bottom: 1px solid white;
+
     
 }
 
@@ -171,5 +173,29 @@ footer{
     width: 20%;
     border: 1px dotted aqua;
     height: 100%;
+
+}
+
+.footer-bottom{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+}
+
+.container8{
+    margin-top: 20px;
+    height: 50px;
+    width: 50%;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text{
+    width: 50px;
+margin-top: 15px;    
+height: 30px;
+border: dotted;
 
 }
