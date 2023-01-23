@@ -133,7 +133,42 @@
 }
 
 .box8{
-    width: 50%;
+    width: 40%;
     height: 90%;
     background-color: crimson;
+}
+footer{
+    background-color: black;
+}
+
+
+.footer-top{
+    background-color: orange;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container7{
+    width: 40%;
+    height: 70%;
+    background-color: blueviolet;
+}
+
+.colonna1{
+    width: 25%;
+    border: 1px dotted white;
+    height: 100%;
+    display: flex;
+    align-content: center;
+    
+}
+
+.mini-colonna{
+    width: 10%;
+    border: 1px dotted aqua;
+    height: 100%;
+
 }
