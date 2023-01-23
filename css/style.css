@@ -45,22 +45,22 @@
 
 }
 
-.bottom{
+.bottom {
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: red;
     height: 400px;
-   }
+}
 
 
-.box{
+.box {
     width: 35%;
     height: 70%;
     background-color: purple;
 }
 
-.container4{
+.container4 {
     background-color: orange;
     height: 400px;
     display: flex;
@@ -69,20 +69,20 @@
 }
 
 
-.box2{
+.box2 {
     width: 25%;
     height: 70%;
     background-color: black;
 }
 
-.box3{
+.box3 {
     width: 15%;
     height: 70%;
     background-color: green;
 }
 
 
-.container5{
+.container5 {
     background-color: grey;
     height: 400px;
     display: flex;
@@ -91,20 +91,20 @@
 }
 
 
-.box4{
+.box4 {
     width: 15%;
     height: 70%;
     background-color: black;
 }
 
-.box5{
+.box5 {
     width: 25%;
     height: 70%;
     background-color: green;
 }
 
 
-.container6{
+.container6 {
     background-color: black;
     height: 400px;
     display: flex;
@@ -112,19 +112,19 @@
     align-items: center;
 }
 
-.box6{
+.box6 {
     width: 25%;
     height: 70%;
     background-color: blue;
 }
 
-.box7{
+.box7 {
     width: 15%;
     height: 70%;
     background-color: crimson;
 }
 
-.box-max{
+.box-max {
     background-color: purple;
     height: 800px;
     display: flex;
@@ -132,17 +132,18 @@
     align-items: center;
 }
 
-.box8{
+.box8 {
     width: 40%;
     height: 90%;
     background-color: crimson;
 }
-footer{
+
+footer {
     background-color: black;
 }
 
 
-.footer-top{
+.footer-top {
     background-color: black;
     height: 400px;
     display: flex;
@@ -150,10 +151,10 @@ footer{
     align-items: center;
     border-bottom: 1px solid white;
 
-    
+
 }
 
-.container7{
+.container7 {
     width: 40%;
     height: 70%;
     background-color: blueviolet;
@@ -161,29 +162,29 @@ footer{
     justify-content: center;
 }
 
-.colonna1{
+.colonna1 {
     width: 35%;
     border: 1px dotted white;
     height: 100%;
-    
-    
+
+
 }
 
-.mini-colonna{
+.mini-colonna {
     width: 20%;
     border: 1px dotted aqua;
     height: 100%;
 
 }
 
-.footer-bottom{
+.footer-bottom {
     background-color: black;
     display: flex;
     justify-content: center;
 
 }
 
-.container8{
+.container8 {
     margin-top: 20px;
     height: 50px;
     width: 50%;
@@ -192,10 +193,10 @@ footer{
     justify-content: space-between;
 }
 
-.text{
+.text {
     width: 50px;
-margin-top: 15px;    
-height: 30px;
-border: dotted;
+    margin-top: 15px;
+    height: 30px;
+    border: dotted;
 
 }
